@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BlogApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="add_post">Add Post</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="post_description">Description</string>
+    <string name="submit_text">SUBMIT</string>
+    <string name="post_title">Title</string>
+    <string name="edt_descp">Description</string>
+    <string name="edt_title">Title</string>
+    <string name="submit_post">SUBMIT POST</string>
+    <string name="posting_message">Posting to the Blog !</string>
+    <string name="f_name">First Name</string>
+    <string name="l_name">Last Name</string>
+</resources>
